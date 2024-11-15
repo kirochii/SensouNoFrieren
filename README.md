@@ -2,6 +2,8 @@
 Mini fan made game of Frieren: Beyond Journey's End made in vanilla Javascript.
 This is a personal project created for educational and non-commercial purposes. Please read below for important information regarding asset ownership and fair use.
 
+![Untitled design](https://github.com/user-attachments/assets/44ab28c4-4deb-4dc2-bb28-87ef359f830d)
+
 ## Disclaimer
 I do not own any of the assets (such as images, icons, music, or other media files) included in this project. All assets are the property of their respective owners and are used here solely for educational and fair use purposes. No copyright infringement is intended.
 
